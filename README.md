@@ -2,11 +2,11 @@
 
 # 1. GUI set up
 
-#environment 
+# environment 
 
 nodejs
 
-#download nodejs
+#to download nodejs
 
 https://nodejs.org/en/
 
