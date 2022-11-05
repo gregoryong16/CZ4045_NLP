@@ -2,12 +2,12 @@
 
 # 1. GUI set up
 
-# to run the model
+# run the model
 python3 bayes_model.py
 
 python3 BERT_model.py
 
-# to start the gui
+# start the gui
 npm start 
 
 
