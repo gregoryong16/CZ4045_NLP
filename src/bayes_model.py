@@ -88,7 +88,7 @@ def cleaning(text):
 def bayes(sentence):
 	stop_words = stopwords.words()
 	
-	df = pd.read_csv('/Users/vinhkhaitruong/Documents/CE4045/npm_project/src/NLP_Models/data/text-query-tweets-sentiment-analysis-textblob.csv')
+	df = pd.read_csv('./text-query-tweets-sentiment-analysis-textblob.csv')
 	df.head()
    
 	# from io import StringIO
