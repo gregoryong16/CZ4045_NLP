@@ -2,6 +2,14 @@
 
 # 1. GUI set up
 
+# to run the model
+python3 bayes_model.py
+python3 BERT_model.py
+
+# to start the gui
+npm start 
+
+
 # 2. Alternative to run notebooks
 
 ## Install requirements.txt
