@@ -4,6 +4,7 @@
 
 # to run the model
 python3 bayes_model.py
+
 python3 BERT_model.py
 
 # to start the gui
