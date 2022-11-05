@@ -2,6 +2,14 @@
 
 # 1. GUI set up
 
+#environment 
+
+nodejs
+
+#download nodejs
+
+https://nodejs.org/en/
+
 # run the model
 
 python3 bayes_model.py
