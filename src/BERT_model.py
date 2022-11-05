@@ -12,7 +12,7 @@ from transformers import pipeline
 
 def bert(sentence):
 
-    base_url = './data/'
+    base_url = './'
 
 
     dataset = load_dataset('csv', data_files={'train': base_url+'bert_train.csv','validation': base_url+'bert_val.csv','test': base_url+'bert_test.csv'})
